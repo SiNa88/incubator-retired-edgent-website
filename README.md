@@ -79,3 +79,4 @@ In order to ensure a consistent user experience, these guidelines should be foll
 1. Make your changes under the `site` directory: `cd site`
 2. `jekyll serve`
 3. Point your browser to `http://localhost:4000`
+
