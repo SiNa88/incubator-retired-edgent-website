@@ -21,7 +21,7 @@ limitations under the License.
 
 ## Location
 
-http://edgent.incubator.apache.org/
+https://www.itec.aau.at/~narges/edgent/content/docs/home.html
 
 ## How it works
 
